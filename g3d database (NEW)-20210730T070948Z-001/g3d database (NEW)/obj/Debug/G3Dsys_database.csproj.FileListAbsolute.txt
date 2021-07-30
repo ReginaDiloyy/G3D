@@ -1,0 +1,251 @@
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.csprojAssemblyReference.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_database\G3Dsys_database\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\FireSharp.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\obj\Debug\G3Dsys_database.csproj.App.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\G3Dsystem\G3Dsys_Database\G3Dsys_database\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe.config
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\G3Dsys_database.pdb
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Memory.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Buffers.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\MySql.Data.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.csprojAssemblyReference.cache
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe.config
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\obj\Debug\G3Dsys_database.pdb
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Firebase.Auth.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\Firebase.Storage.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Regina\Documents\MAPUA\OJT\Proj\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe.config
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\G3Dsys_database.pdb
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Firebase.Auth.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Firebase.Storage.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\MySql.Data.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Google.Protobuf.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Zstandard.Net.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Memory.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Buffers.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\MySql.Data.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.AssemblyReference.cache
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe
+C:\Users\duran\Downloads\G3D-Inventory-System-main\G3D-Inventory-System-main\g3d database (ver 1)\obj\Debug\G3Dsys_database.pdb
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe.config
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\G3Dsys_database.pdb
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Firebase.Auth.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Firebase.Storage.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Memory.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Buffers.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\MySql.Data.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.csprojAssemblyReference.cache
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe
+C:\Users\Regina\Desktop\g3d database (ver 1)\obj\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Firebase.Auth.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Firebase.Storage.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.csprojAssemblyReference.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (ver 1)\obj\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\G3Dsys_database.pdb
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Firebase.Auth.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Firebase.Storage.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.csprojAssemblyReference.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.exe.config
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.Add_Item.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.EditItem.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.ItemDetails.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.loginFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.mainFRM.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.Properties.Resources.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.Registration.resources
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.csproj.CopyComplete
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.exe
+C:\Users\user\Desktop\cerboris user\OJT G3D ACT\SourceCode\LATEST G3D PROJECT\g3d database (NEW)\obj\Debug\G3Dsys_database.pdb
